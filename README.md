@@ -14,7 +14,7 @@ Because is only a static website, you have a lot of free forever option for host
 ## Support
 It's not like i'm gonna use the money for the server or something.. only donate me if you appreciate this work
 
-<a href="https://sociabuzz.com/willydev/tribe"><img src="https://img.shields.io/badge/donasi_untuk_indonesia-red"></a> <a href="https://sociabuzz.com/willydev/tribe"><img src="https://img.shields.io/badge/donate-blue"></a>
+<a href="https://sociabuzz.com/"><img src="https://img.shields.io/badge/donasi_untuk_indonesia-red"></a> <a href="https://sociabuzz.com/"><img src="https://img.shields.io/badge/donate-blue"></a>
 
 ---
 That's all, Bye 👋👋👋
